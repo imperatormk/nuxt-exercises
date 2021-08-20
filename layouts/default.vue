@@ -1,5 +1,6 @@
 <template>
   <div>
+    <img src="https://via.placeholder.com/350x150"/>
     <Nuxt />
   </div>
 </template>
